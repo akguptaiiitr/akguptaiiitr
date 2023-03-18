@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on NewsApp
+- 🔭 I’m currently working on NewsApp React app
 - 🌱 I’m currently learning React Js
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
