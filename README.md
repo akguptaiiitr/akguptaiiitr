@@ -8,5 +8,5 @@
 - 🔭 I’m currently working on NewsApp React app
 - 🌱 I’m currently learning React Js
 - 📫 How to reach me: abhishekkumargupta22110@gmail.com
-- ![Visitor Count](https://profile-counter.glitch.me/akguptaiiitr/count.svg)
+- Visitor Count  - ![Visitor Count](https://profile-counter.glitch.me/akguptaiiitr/count.svg)
 
