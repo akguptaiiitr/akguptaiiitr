@@ -6,7 +6,7 @@
 [![GeeksForGeeks Badge](https://img.shields.io/badge/GeeksForGeeks-abhigupta3007-green)](https://auth.geeksforgeeks.org/user/abhigupta3007)
 
 - 🔭 I’m currently working on NewsApp React app
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning Backend Technologies
 - 📫 How to reach me: abhishekkumargupta22110@gmail.com
 - Visitor Count  - ![Visitor Count](https://profile-counter.glitch.me/akguptaiiitr/count.svg)
 
