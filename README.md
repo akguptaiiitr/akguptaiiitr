@@ -9,5 +9,4 @@
 - 🌱 I’m currently learning Backend Technologies
 - 📫 How to reach me: abhishekkumargupta22110@gmail.com
 - Create your Readme on https://rahuldkjain.github.io/gh-profile-readme-generator/
-- Visitor Count  - ![Visitor Count](https://profile-counter.glitch.me/akguptaiiitr/count.(remove me)svg)
 
