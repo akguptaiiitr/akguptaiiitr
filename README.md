@@ -18,5 +18,5 @@
 
 <img align="right" style="
         width:46%; 
-        margin-top:-15px;
+        margin-top:-15px!important;
         " src="https://github-readme-streak-stats.herokuapp.com/?user=abhigupta13&" alt="abhigupta13" />
