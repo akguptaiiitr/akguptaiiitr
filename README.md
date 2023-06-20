@@ -17,6 +17,6 @@
         " src="https://github-readme-stats.vercel.app/api?username=abhigupta13&show_icons=true&locale=en" alt="abhigupta13" />
 
 <img align="right" style="
-        width:46%; 
+        width:48%; 
         margin-top:-15px!important;
         " src="https://github-readme-streak-stats.herokuapp.com/?user=abhigupta13&" alt="abhigupta13" />
