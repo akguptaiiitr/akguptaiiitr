@@ -12,6 +12,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
-&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=abhigupta13&show_icons=true&locale=en" alt="abhigupta13" />
+&nbsp;<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=abhigupta13&show_icons=true&locale=en" alt="abhigupta13" />
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigupta13&" alt="abhigupta13" />
