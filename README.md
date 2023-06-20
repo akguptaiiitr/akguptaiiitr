@@ -9,4 +9,12 @@
 - 🌱 I’m currently learning Backend Technologies
 - 📫 How to reach me: abhishekkumargupta22110@gmail.com
 - Create your Readme on https://rahuldkjain.github.io/gh-profile-readme-generator/
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhigupta13&show_icons=true&locale=en" alt="abhigupta13" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigupta13&" alt="abhigupta13" /></p>
