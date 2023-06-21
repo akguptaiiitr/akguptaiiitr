@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Backend Technologies
 - 📫 How to reach me: abhishekkumargupta22110@gmail.com
 - Create your Readme on https://rahuldkjain.github.io/gh-profile-readme-generator/
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 &nbsp;<img align="left" style="
