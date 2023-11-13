@@ -1,12 +1,12 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar%20Gupta-Blue)](https://www.linkedin.com/in/abhishek-kumar-gupta-149539228/)
-[![Linkedin Badge](https://img.shields.io/badge/CodeChef-abhigupta07-Blue)](https://www.codechef.com/users/abhigupta07)
+[![Linkedin Badge](https://img.shields.io/badge/CodeChef-abhigupta07-Blue)](https://www.codechef.com/users/abhigupta3007)
 [![Website Badge](https://img.shields.io/badge/website-Abhishek%20Kumar%20Gupta-Blue)](https://Abhigupta13.github.io/Portfolio)
 [![GeeksForGeeks Badge](https://img.shields.io/badge/GeeksForGeeks-abhigupta3007-green)](https://auth.geeksforgeeks.org/user/abhigupta3007)
 
 - 🔭 I’m currently working on SIH project 
-- 🌱 I’m currently learning Backend Technologies
+- 🌱"Backend enthusiast exploring advanced technologies after mastering the fundamentals."
 - 📫 How to reach me: abhishekkumargupta22110@gmail.com
 - Create your Readme on https://rahuldkjain.github.io/gh-profile-readme-generator/
 <h3 align="center">A passionate Web developer from India</h3>
