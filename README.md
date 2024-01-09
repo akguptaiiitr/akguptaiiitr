@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/website-Abhishek%20Kumar%20Gupta-Blue)](https://Abhigupta13.github.io/Portfolio)
 [![GeeksForGeeks Badge](https://img.shields.io/badge/GeeksForGeeks-abhigupta3007-green)](https://auth.geeksforgeeks.org/user/abhigupta3007)
 
-- 🔭 I’m currently working on SIH project 
+- 🔭 I’m working on a SIH project and building an e-commerce website.
 - 🌱"Backend enthusiast exploring advanced technologies after mastering the fundamentals."
 - 📫 How to reach me: abhishekkumargupta22110@gmail.com
 - Create your Readme on https://rahuldkjain.github.io/gh-profile-readme-generator/
