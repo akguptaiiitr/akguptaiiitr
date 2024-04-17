@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar%20Gupta-Blue)](https://www.linkedin.com/in/abhigupta3007/)
 [![Linkedin Badge](https://img.shields.io/badge/CodeChef-abhigupta07-Blue)](https://www.codechef.com/users/abhigupta3007)
-[![Leetcode Badge](https://img.shields.io/badge/CodeChef-abhigupta07-Blue)](https://leetcode.com/Abhigupta13/)
+[![Leetcode Badge](https://img.shields.io/badge/Leetcode-abhigupta07-Blue)](https://leetcode.com/Abhigupta13/)
 [![Website Badge](https://img.shields.io/badge/website-Abhishek%20Kumar%20Gupta-Blue)](https://Abhigupta13.github.io/Portfolio)
 [![GeeksForGeeks Badge](https://img.shields.io/badge/GeeksForGeeks-abhigupta3007-green)](https://auth.geeksforgeeks.org/user/abhigupta3007)
 
