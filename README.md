@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working as **Backend developer** at **Stratex consulting services** an Australian start-up company. 
+- 🔭 I’m currently working as **Backend developer intern** at **Stratex consulting services** an Australian start-up company. 
 
 - 🌱 I’m currently learning **Next.js with Typescript**
 
