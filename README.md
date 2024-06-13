@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Prompt mania- Useful AI prompts Finder**
+- 🔭 I’m currently working as **Backend developer** at **Stratex consulting services** an Australian start-up company. 
 
 - 🌱 I’m currently learning **Next.js with Typescript**
 
 - 👯 I’m looking to collaborate on **Full Stack MERN and Next.js projects.**
 
-- 👨‍💻 All of my projects are available at [protfolio link to be edited](protfolio link to be edited)
+- 👨‍💻 All of my projects are available at [protfolio link to be edited](portfolio link to be edited)
 
 - 💬 Ask me about **Node.js, Express.js, MongoDB, SQL**
 
