@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 - 🔭 I’m currently working as **Backend developer intern** at **Stratex consulting services** an Australian start-up company. 
 
-- 🌱 I’m currently learning **Next.js with Typescript**
+- 🌱 I’m currently excelling my self in Software development 
 
-- 👯 I’m looking to collaborate on **Full Stack MERN and Next.js projects.**
+- 👯 I’m looking to collaborate on **Software Projects and Backend technologies**
 
 - 👨‍💻 All of my projects are available at [protfolio link to be edited](portfolio link to be edited)
 
-- 💬 Ask me about **Node.js, Express.js, MongoDB, SQL**
+- 💬 Ask me about **Node.js, Express.js, REST APIs, MongoDB, SQL, PostgreSQL**
 
 - 📫 How to reach me **abhishek.akg13@gmail.com**
 
