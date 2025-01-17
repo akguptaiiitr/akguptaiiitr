@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working as **Backend developer intern** at **Stratex consulting services** an Australian start-up company. 
+- 🌱 I’m currently excelling in Software development developing a NPM package that creates automated MVC architecture file formats for fast backend development.
 
-- 🌱 I’m currently excelling my self in Software development 
+- 🔭 I’ve completed 6 months Internship as **Backend developer intern** at **Stratex consulting services** an Australian start-up company. 
 
 - 👯 I’m looking to collaborate on **Software Projects and Backend technologies**
 
